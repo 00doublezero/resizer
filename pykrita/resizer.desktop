@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=resizer
+X-Python-2-Compatible=false
+Name=Resizer
+Comment=Plugin resize canvas
